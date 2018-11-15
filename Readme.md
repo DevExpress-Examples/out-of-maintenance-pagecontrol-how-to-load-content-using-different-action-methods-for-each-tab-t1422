@@ -1,3 +1,15 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [HomeController.cs](./CS/T142225/Controllers/HomeController.cs)
+* [MyModel.cs](./CS/T142225/Models/MyModel.cs)
+* [Index.cshtml](./CS/T142225/Views/Home/Index.cshtml)
+* [Index2.cshtml](./CS/T142225/Views/Home/Index2.cshtml)
+* [PageControlPartial.cshtml](./CS/T142225/Views/Home/PageControlPartial.cshtml)
+* [PartialView1.cshtml](./CS/T142225/Views/Home/PartialView1.cshtml)
+* [PartialView2.cshtml](./CS/T142225/Views/Home/PartialView2.cshtml)
+* [PartialView3.cshtml](./CS/T142225/Views/Home/PartialView3.cshtml)
+<!-- default file list end -->
 # PageControl - How to load content using different action methods for each tab 
 
 
