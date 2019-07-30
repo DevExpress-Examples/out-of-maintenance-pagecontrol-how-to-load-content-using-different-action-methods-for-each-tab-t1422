@@ -12,7 +12,7 @@
 <!-- default file list end -->
 # PageControl - How to load content using different action methods for each tab 
 <!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/t142225)**
+**[[Run Online]](https://codecentral.devexpress.com/t142225/)**
 <!-- run online end -->
 
 
